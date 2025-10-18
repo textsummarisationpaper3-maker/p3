@@ -1,0 +1,19 @@
+{
+  "evaluation_date": "2025-10-18 19:02:10",
+  "total_samples_evaluated": 819,
+  "model_architecture": "Custom Transformer (Encoder-Decoder)",
+  "dataset": "SAMSum Test Set",
+  "metrics_calculated": 43,
+  "avg_rouge1_fmeasure": 0.19652309797135992,
+  "avg_rouge2_fmeasure": 0.03577363456057664,
+  "avg_rougeL_fmeasure": 0.16409392083145752,
+  "avg_bert_precision": 0.0,
+  "avg_bert_recall": 0.0,
+  "avg_bert_f1": 0.0,
+  "avg_bleu1": 0.0,
+  "avg_bleu2": 0.0,
+  "avg_bleu4": 0.0,
+  "avg_meteor_score": 0.0,
+  "avg_length_ratio": 1.1080223978523953,
+  "avg_compression_ratio": 1.207453351593697
+}

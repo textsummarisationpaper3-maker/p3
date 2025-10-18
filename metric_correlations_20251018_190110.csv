@@ -1,0 +1,7 @@
+,rouge1_fmeasure,rouge2_fmeasure,rougeL_fmeasure,bert_f1,bleu4,meteor_score
+rouge1_fmeasure,1.0,0.6648124057756664,0.9223681228506803,,,
+rouge2_fmeasure,0.6648124057756664,1.0,0.7240557563243736,,,
+rougeL_fmeasure,0.9223681228506803,0.7240557563243736,1.0,,,
+bert_f1,,,,,,
+bleu4,,,,,,
+meteor_score,,,,,,
